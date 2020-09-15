@@ -1,11 +1,13 @@
 Kairat Satbekov
 
+
 Contact Info
     Email: satbekov16@gmail.com
     Phone: +77064076819
     GitHub: https://github.com/k-satbekov
     Telegram: https://t.me/skai_ss
     Facebook: https://www.facebook.com/profile.php?id=100005111296921
+
 
 Summary
 I want to become an expert in the field of Front-End Development and web applications architecture, and start working as a Junior ReactJS engineer. This year, my goal is to work for an ambitious company, take on huge projects with motivated and strong programmers, design and build efficient&reusable front-end systems, abstractions. I still see Javascript as a future in web development industry.
@@ -16,6 +18,7 @@ I have part-time experience in iOS development and published 1 app(CryptoNOW, a 
 I have one pure vanilla JS pet project - shop admin website developed while learning JavaScript(History API, REST API, Drag'n'Drop components, events).
 
 Highly motivated, passionate and hard-working indie developer from Kazakhstan. My life motto - practice, learn and develop through extreme proactiveness and curiosity. 
+
 
 Skills
 Programming Languages: 
@@ -34,8 +37,10 @@ VCS:
 IDE: 
     - Visual Studio Code, IntelliJ IDEA, WebStorm
 
+
 Code Examples
 Github: https://github.com/k-satbekov
+
 
 Experience/Portfolio
 nFactorial School, iOS development bootcamp, iOS intern, Nur-Sultan, 2017 (3 months)
@@ -48,12 +53,14 @@ Github:
     - https://github.com/satbekov/Odysseus-SpringBoot (Java SpringBoot application)
 Leetcode(algorithms): https://leetcode.com/kairats/ (250 solved);
 
+
 Education
 University of Wisconsin Madison, Madison, USA, 2014-2018
 GPA: 3.04/4.0
 Major: Computer Science, Minor: Mathematics certificate
 Courses: Data Structures(CS367), Design/Analysis of Algorithms(CS577), Mobile Systems and Applications(CS407), Operating Systems(CS537), Database Management Systems(CS564), Artificial Intelligence(CS540), Computer Networks(CS640), Cryptography(CS435)  
 Online learning: Front-end development/HTML/CSS(Foxminded), JavaScript/DOM/Interfaces for programmers(learn.javascript.ru), ReactJS(learn.javascript.ru)
+
 
 English 
 Level: B2. I studied my bachelor's in the US for 4 years and I can speak fluently.
